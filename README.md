@@ -34,7 +34,7 @@ An interactive dashboard developed using Python and Streamlit to analyze crime s
    `pip install -r requirements.txt`
 3. Run the application:
    `streamlit run Tubes.py`
-
+Link : https://indonesia-crime-statistics-dashboard-1504.streamlit.app/
 ## Data Source
 Badan Pusat Statistik (BPS).
 
