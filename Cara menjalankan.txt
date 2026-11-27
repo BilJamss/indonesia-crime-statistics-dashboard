@@ -1,0 +1,23 @@
+1. Pastikan Python telah terinstal
+   Gunakan Python versi 3.9 atau lebih baru agar seluruh library dapat berjalan secara optimal.
+
+2. Susun seluruh file proyek dalam satu folder
+   Folder proyek harus berisi:
+TUBES.py
+requirements.txt
+seluruh file data berformat CSV
+seluruh file gambar pendukung visualisasi
+
+3. Buka Terminal atau Command Prompt
+Masuk ke direktori folder proyek menggunakan perintah cd atau dengan klik kanan pada folder lalu pilih Open in Terminal.
+
+4. Instal seluruh dependency proyek
+Jalankan perintah berikut untuk menginstal seluruh library yang dibutuhkan:
+pip install -r requirements.txt
+
+5. Jalankan aplikasi Streamlit
+streamlit run TUBES.py
+
+6. Akses aplikasi melalui browser
+Sistem akan otomatis membuka halaman pada alamat:
+http://localhost:8501
